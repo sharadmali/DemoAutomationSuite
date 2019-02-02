@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'F:\\Sharad\\DemoAutomationSuite\\RunManagerSharad',namePairs:[]}]};

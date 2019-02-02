@@ -1,0 +1,11 @@
+﻿<Properties>
+  <WatchEntry0 value="strPrevTSR" />
+  <WatchEntry1 value="gstrCurTSR" />
+  <WatchEntry2 value="strTempFile" />
+  <WatchEntry3 value="strFileName" />
+  <WatchEntry4 value="TOCollection.count" />
+  <WatchEntry5 value="strTemp" />
+  <WatchEntry6 value="objReader.GetLogicalName(TestObject)" />
+  <WatchEntry7 value="strObjectPath" />
+  <WatchEntry8 value="strLogicalName" />
+</Properties>
