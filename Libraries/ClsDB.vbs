@@ -2,7 +2,7 @@
 '-------------------------------------------------------------------------------------------------
 'Library File Name  :   ClsDB
 'Author             :   Sharad Mali
-'Created date       :   Dec-2005
+'Created date       :   
 'Description        :   This class file contains Database related functions
 '-------------------------------------------------------------------------------------------------
 
