@@ -1859,9 +1859,9 @@ Public Function IndividualDetailsCWT(strObject,strLabel,strVal)
 							End If
 
 							If i=0  Then
-									Call EnterText("edtEmailCWT","Email","sharad.mali@lloydsbanking.com")
+									Call EnterText("edtEmailCWT","Email","sharad.mali@abc.com")
 							Else
-									Call EnterText("edtEmailCWT","Email","dipti.bhushetty@lloydsbanking.com")
+									Call EnterText("edtEmailCWT","Email","sharad.mali@abc.com")
 							End If
 
 							If i=0  Then
@@ -1995,11 +1995,11 @@ Public Function IndividualDetailsCWT(strObject,strLabel,strVal)
 							Call selectRadioButton("rdGenderCWT","Gender","Male")
 
 '							If i=0  Then
-'									Call EnterText("edtEmailCWT","Email","sharad.mali@lloydsbanking.com")
+'									Call EnterText("edtEmailCWT","Email","sharad.mali@abc.com")
 '							Else
-'									Call EnterText("edtEmailCWT","Email","dipti.bhushetty@lloydsbanking.com")
+'									Call EnterText("edtEmailCWT","Email","sharad.mali@abc.com")
 '							End If
-							str="sharad.mali"&i&"@yopmail.com"
+							str="sharad.mali"&i&"@abc.com"
 							Call EnterText("edtEmailCWT","Email",str) 
 							Call EnterText("edtPrimaryNumberCWT","Primary Number","07425160478")
 							Call EnterText("edtMobileCWT","Mobile","07425160478")
@@ -2108,11 +2108,11 @@ Public Function IndividualDetailsRO(strObject,strLabel,strVal)
 '												End If
 												Call selectRadioButton("rdGenderRO","Gender","Male")
 												If ntRow=0 Then
-																Call EnterText("edtEmailRO","Email","sharad.mali@lloydsbanking.com")
+																Call EnterText("edtEmailRO","Email","sharad.mali@abc.com")
 												ElseIf ntRow=1 Then
-																Call EnterText("edtEmailRO","Email","DIPTI.BHUSHETTY@lloydsbanking.com")
+																Call EnterText("edtEmailRO","Email","sharad.mali@abc.com")
 												ElseIf ntRow=2 Then
-																Call EnterText("edtEmailRO","Email","Srikiran.Valluripalli@lloydsbanking.com")
+																Call EnterText("edtEmailRO","Email","sharad.mali@abc.com")
 												End If
 
 												If ntRow=0 Then
@@ -2172,9 +2172,9 @@ Public Function IndividualDetailsRO(strObject,strLabel,strVal)
 									Call selectRadioButton("rdGenderRO","Gender","Male")
 
 									If i=0  Then
-											Call EnterText("edtEmailRO","Email","sharad.mali@lloydsbanking.com")
+											Call EnterText("edtEmailRO","Email","sharad.mali@abc.com")
 									Else
-											Call EnterText("edtEmailRO","Email","dipti.bhushetty@lloydsbanking.com")
+											Call EnterText("edtEmailRO","Email","sharad.mali@abc.com")
 									End If
 		
 									If i=0  Then
