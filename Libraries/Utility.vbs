@@ -1686,7 +1686,6 @@ Public Function verifyItemsInList(strObject,strLabel,strVal)
 	End If
 
 On Error Resume Next
-'	 Set objListField = Browser("Lloyds TSB - Enter Memorable").Page("Lloyds TSB - Enter Memorable").WebList("frmentermemorableinformation1:")
 	Set objListField=gobjObjectClass.getObjectRef(strObject)
 	arrTemp = Split(strVal,";")
 	bExp = Ucase(arrTemp(UBound(arrTemp)))
@@ -4248,7 +4247,7 @@ Public function CONNECTtoPAM(strVal)
 '"CONNECTSTRING=(DESCRIPTION=" & _
 '"(ADDRESS=(PROTOCOL=TCP)" & _
 '"(HOST=p29938dtw642.machine.test.group)(PORT=1522))" & _
-'"(CONNECT_DATA=(SERVICE_NAME=TBT10P11T.test.lloydsbanking.com))); uid=CHANNEL_USER_SIT1;pwd=Channel_user_sit1_dtw642;"
+'"(CONNECT_DATA=(SERVICE_NAME=TBT10P11T.test.abc.com))); uid=CHANNEL_USER_SIT1;pwd=Channel_user_sit1_dtw642;"
 '
 'objDBConn.Open strCon
 
