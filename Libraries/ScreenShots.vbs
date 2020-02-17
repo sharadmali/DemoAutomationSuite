@@ -1,7 +1,7 @@
 
 	'==========================================================================================
 	' Purpose		: Function to create snap shots
-	' Author		: Cognizant Tecnology Solutions
+' Author		: Sharad Mali
 	' Created on   	        : 
 	' Last Updated	        : 
 	' Reviewer		:
