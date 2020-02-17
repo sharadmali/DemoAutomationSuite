@@ -1,7 +1,7 @@
 ﻿'==================================================================================================================
 'Library File Name    :Utility - SHARED DRIVE
 'Author               :Sharad Mali
-'Created date         :05-Nov-2009
+'Created date         :
 'Description          :It lists the common utility functions that can be used in the scripts.
 '==================================================================================================================
 '01.	splitstring(strtosplit, strDelimiter)
