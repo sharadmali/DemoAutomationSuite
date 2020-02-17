@@ -1,8 +1,8 @@
 '-------------------------------------------------------------------------------------------------
 '-------------------------------------------------------------------------------------------------
 'Library File Name  :   DataTableClass
-'Author             :   Cognizant Technology SOlutions
-'Created date       :   Dec-2005
+'Author             :   Sharad Mali
+'Created date       :   
 'Description        :   This class file has functions for manupulating Excel Files
 '-------------------------------------------------------------------------------------------------
 
